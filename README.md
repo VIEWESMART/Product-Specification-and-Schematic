@@ -11,11 +11,12 @@
       * ...
   * Display 
     * HDMI
-      * 1.3inch
+      * 10.1inch
         * Classify by model
-      * 2.1inch
       * ...
     * RGB
+      * 2.1inch
+      * ...
     * SPI
     * ...
 
