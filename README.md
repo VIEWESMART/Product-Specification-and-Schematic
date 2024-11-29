@@ -7,7 +7,9 @@
       * Screen Specification Sheet
       * Development Board Specification Sheet
     * 1.9inch
-    * ... 
+    * ...
+
+# The content structure of the Development Board Specification Sheet is as follows:
 ## 1. Introduction	
  ### 1.1 Features
  #### Brief Info:
